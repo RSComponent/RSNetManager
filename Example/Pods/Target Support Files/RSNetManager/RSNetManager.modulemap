@@ -1,0 +1,6 @@
+framework module RSNetManager {
+  umbrella header "RSNetManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -37,10 +37,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0748C4F3113B8BF2D33C34B1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		0748C4F3113B8BF2D33C34B1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		348E27DC317EC9FFDC931A42 /* Pods_RSNetManager_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RSNetManager_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B7CCF3C497FC49F30B9E31C /* Pods_RSNetManager_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RSNetManager_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4ED26EEFCD13E37F03F880FA /* RSNetManager.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = RSNetManager.podspec; path = ../RSNetManager.podspec; sourceTree = "<group>"; };
+		4ED26EEFCD13E37F03F880FA /* RSNetManager.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = RSNetManager.podspec; path = ../RSNetManager.podspec; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* RSNetManager_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RSNetManager_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -64,7 +64,7 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9979C7E5256F97E3E483F659 /* Pods-RSNetManager_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RSNetManager_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RSNetManager_Tests/Pods-RSNetManager_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		9B4EED8B095EF18B1CDB95D3 /* Pods-RSNetManager_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RSNetManager_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RSNetManager_Example/Pods-RSNetManager_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		9D30A4A8FCDD570BD559E432 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		9D30A4A8FCDD570BD559E432 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		D7B8046481B04D65A96BDD65 /* Pods-RSNetManager_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RSNetManager_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-RSNetManager_Tests/Pods-RSNetManager_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		E53C2BF5D7A07BB9EFCE109F /* Pods-RSNetManager_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RSNetManager_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-RSNetManager_Example/Pods-RSNetManager_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
