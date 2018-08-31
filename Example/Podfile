@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RSNetManager_Example' do
+  pod 'RSNetManager', :path => '../'
+
+  target 'RSNetManager_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
